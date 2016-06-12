@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DagTest</string>
+    <string-array name="array_math_op">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
